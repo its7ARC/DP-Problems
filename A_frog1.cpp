@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  frog1
-//
-//  Created by Anshuman Raj Chauhan_1 on 03/12/20.
-//  Copyright © 2020 Anshuman Raj Chauhan_1. All rights reserved.
-//
-
 #include <iostream>
 using namespace std;
 
